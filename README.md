@@ -12,5 +12,5 @@ Die Wortformliste basiert auf:
 > Korpusbasierte Wortgrundformenliste DeReWo, v-ww-bll-320000g-2012-12-31-1.0, mit Benutzerdokumentation, http://www.ids-mannheim.de/derewo, © Institut für Deutsche Sprache, Programmbereich Korpuslinguistik, Mannheim, Deutschland, 2013.
 
 DeReWo ist unter die Creative Commons-Lizenz (by-nc) gestellt (https://creativecommons.org/licenses/by-nc/3.0/deed.de).
-Deshalb ist [wortformliste.tsv](wortformliste.tsv) ebenfalls unter die Creative Commons-Lizenz (by-nc) gestellt (https://creativecommons.org/licenses/by-nc/3.0/deed.de).
+Deshalb ist [wortformliste.csv](wortformliste.csv) ebenfalls unter die Creative Commons-Lizenz (by-nc) gestellt (https://creativecommons.org/licenses/by-nc/3.0/deed.de).
 Siehe dazu auch die Datei [LICENSE](LICENSE) in diesem Repository.
